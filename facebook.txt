@@ -1,3 +1,6 @@
 1. open the facebook
 
 2.Enter the facebook username and password
+
+3.Enter valid details
+
